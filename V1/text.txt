@@ -1,0 +1,7 @@
+This is a test document. It will
+test the limits of
+. my algorithm "and" show
+me what does not work
+
+
+okay? OKAY THEN! So it is settled.
